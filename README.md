@@ -11,8 +11,11 @@ To launch your project, just type the following command : node server.js
 So we have a total of 5 routes
 
 Add employee api/employees
+
 List of all employees api/employees
+
 Find employee by Id api/employees/:Id
+
 Update employee api/employees/:Id
 
 ## Examples of API tests with postman (in pictures)
