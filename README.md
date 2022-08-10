@@ -18,7 +18,7 @@ Find employee by Id api/employees/:Id
 
 Update employee api/employees/:Id
 
-## Examples of API tests with postman (in pictures)
+## Examples of API test with postman (in pictures)
 
 Get Employees by department : 
 
